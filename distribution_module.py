@@ -87,7 +87,7 @@ class SyntheticData:
         result = term1 + term2 - term3
         return result
 
-"""Test case"""
+"""Test code"""
 if __name__ == '__main__':
     distribution = SyntheticData()
     distribution.set_samples(30)
