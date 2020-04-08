@@ -44,6 +44,7 @@ def D2_boundary(f, epsilon, x_min, x_max, y_min, y_max):
         y += epsilon
     return np.array(result).reshape((-1, 2))
 
+# Test code
 if __name__ == '__main__':
     mu1 = np.array([0, 0])
     mu2 = np.array([1, 1])
