@@ -1,5 +1,6 @@
 # Neural-Network-NN_Classification
 
+*** numpy, matplotlib, scipy is needed ***
 
 This program is an implementation of neural network to classify a synthetic data set created by mixture of Gaussian.
 
